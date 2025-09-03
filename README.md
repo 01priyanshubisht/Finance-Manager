@@ -1,21 +1,18 @@
 # Project Name 
 
- ## Fintrack
+ ## Finance-Manager
 
-<img width ="200px" src="https://imgur.com/M5sTr8r.png">
+
 
 <br> 
 
-<a href="https://drive.google.com/file/d/19gKWKiF6bSgZI0X1FsSb8hXZCgM0KGvg/view?usp=share_link">![Demo Video](https://img.shields.io/badge/Demo_Video-Click_ME-brightgreen.svg?style=plastic&logo=YouTube&logoColor=red)</a>
-
-[![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://getfintrack.netlify.app/)
 
 ---
 
 
 > ✨ABOUT 
 
-⭕Fintrack ,is an online platform that allows users to manage their finances effectively.
+⭕Finance-Manager,is an online platform that allows users to manage their finances effectively.
 
 ⭕The project typically includes designing and implementing features that enables users to track their incomes, expenses and prominent financial health.
 
@@ -26,17 +23,6 @@
 
 ---
 
-
-## 🔗 Collaborators Profile Links✨
-
-
-
-| Collaborators | Github                                                                                                                                   | Linkedin |                                                                                                                                    |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Raj Gupta  (Member 1)| [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code-raj11903)| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajgupta2003/) | 
-|Somil Rathore (Member 2) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SomilRathore01) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somil-rathore-2762bb247) |
-| Mayank Digarse (Member 3) | [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mayank-Digarse) |[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-digarse-588345223) |
-| Neha Tomar (Member 4)| [![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](#) |[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#) | 
 
 
 <br>
@@ -63,8 +49,7 @@
 - #### For Database: -
    - `Local Storage `
   
-- #### For live Project : -
-   - `Netlify`
+
 
    
 ![spgmr](https://user-images.githubusercontent.com/107506646/222902675-7e06b37e-bbca-4803-9792-cc6752afee3e.gif)
