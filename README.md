@@ -30,7 +30,6 @@
 💻 Project logo:- 
 
 
-<img width="300px" alt="Logo" src="https://imgur.com/TgpEhvY.png">
 
 
 
