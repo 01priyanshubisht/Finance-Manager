@@ -92,7 +92,7 @@ graph TD;
 # Home Page
 ![Home](https://imgur.com/nOlxDYU.png)
 
-<img width="1680" alt="Screenshot 2023-03-05 at 12 00 16 AM" src="https://imgur.com/dADo3Sb.png">
+
 
 ![About2](https://imgur.com/vwOJdAS.png)
 
