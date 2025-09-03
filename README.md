@@ -94,7 +94,7 @@ graph TD;
 
 
 
-![About2](https://imgur.com/vwOJdAS.png)
+
 
 
 
