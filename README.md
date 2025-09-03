@@ -96,7 +96,7 @@ graph TD;
 
 ![About2](https://imgur.com/vwOJdAS.png)
 
-![Feedback](https://imgur.com/9v1UAMO.png)
+
 
 
 # Signup Page 
